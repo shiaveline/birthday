@@ -14,6 +14,7 @@ var config = {
         "要让我宝开开心心",
         "然后偷偷抱走",
         "恶龙出没啊呜~~",
+        "十五岁生日快乐哦",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -32,7 +33,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "横幅",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
